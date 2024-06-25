@@ -361,7 +361,7 @@ input[type="radio"]{
  /* section7 */
  .container7{
     background-color: #000;
-    border: 1px solid;
+    /* border: 1px solid; */
     width: 98.60vw; 
     height: 550px;
     margin-top: 5px;
